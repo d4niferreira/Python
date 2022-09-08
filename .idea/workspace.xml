@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1c49936-5f56-499e-b416-e8e88ef85e76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/aulas/aula08a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/aulas/aula08b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex013.py" afterDir="false" />
-    </list>
+    <list default="true" id="f1c49936-5f56-499e-b416-e8e88ef85e76" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
