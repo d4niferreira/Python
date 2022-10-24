@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1c49936-5f56-499e-b416-e8e88ef85e76" name="Changes" comment="" />
+    <list default="true" id="f1c49936-5f56-499e-b416-e8e88ef85e76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex018.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CursoemVIdeo/aulas/aula08a.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CursoemVIdeo/aulas/aula08b.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CursoemVIdeo/desafios/ex013.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CursoemVIdeo/desafios/ex015.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CursoemVIdeo/desafios/ex016.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CursoemVIdeo/desafios/ex017.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -25,12 +40,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
