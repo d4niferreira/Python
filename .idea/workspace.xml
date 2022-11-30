@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1c49936-5f56-499e-b416-e8e88ef85e76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoemVIdeo/desafios/ex027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f1c49936-5f56-499e-b416-e8e88ef85e76" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
